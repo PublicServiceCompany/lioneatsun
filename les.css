@@ -1,0 +1,27 @@
+* {
+    background: black;
+    font-family: "Arial Black", serif;
+    text-align: center;
+}
+
+h1 {
+    color: #5f4ff5;
+}
+
+p {
+    color: #ff4455;
+}
+
+.responsive {
+    display: block;
+    max-width: 100%;
+    height: auto;
+    margin: auto;
+}
+
+.flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
