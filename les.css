@@ -1,7 +1,11 @@
 * {
-    background: black;
     font-family: "Arial Black", serif;
     text-align: center;
+}
+
+body {
+    background: black;
+    cursor: url("/images/les_sun_cursor.cur"), auto;
 }
 
 h1 {
